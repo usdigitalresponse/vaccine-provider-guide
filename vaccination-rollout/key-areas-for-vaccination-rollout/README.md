@@ -8,5 +8,5 @@ We see the high-level ecosystem in the following diagram:
 
 ### **Tips and Considerations**
 
-For each of the 8 key focus areas illustrated above, below are some tips and considerations that we’ve heard from the government teams we’ve worked with. \(Got other tips, or need help on other parts of the vaccine ecosystem? Let [us know](mailto:vaccinations@usdigitalresponse.org)!\)
+For each of the 8 key focus areas illustrated above, we provide tips and considerations that we’ve heard from the government teams we’ve worked with. \(Got other tips, or need help on other parts of the vaccine ecosystem? Let [us know](mailto:vaccinations@usdigitalresponse.org)!\)
 

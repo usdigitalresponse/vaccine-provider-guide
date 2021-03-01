@@ -23,12 +23,12 @@ Given the rapidly evolving vendor landscape and the unique challenges with COVID
         <p>&lt;b&gt;&lt;/b&gt;</p>
         <p>Understand the vendor&apos;s past government experience. If a vendor hasn&apos;t
           supported situations similar to yours, it&apos;ll likely be a lot of work
-          to get what you want out fo them, and there are likely some gotchas that
-          neither of you are aware of. It&apos;ll make your life easier to use a
-          tool that has proven functionality solving similar problems in the past.</p>
+          to get what you want out of them, and there are likely some gotchas, of
+          which neither of you are aware. It&apos;ll make your life easier to use
+          a tool that has proven functionality solving similar problems in the past.</p>
         <p></p>
         <p>Having experience with wide-scale COVID testing is the gold standard,
-          since many of the requirements for COVID testing and COVID vaccinations
+          because many of the requirements for COVID testing and COVID vaccinations
           are similar.</p>
       </td>
       <td style="text-align:left">
@@ -70,7 +70,7 @@ Given the rapidly evolving vendor landscape and the unique challenges with COVID
           <li>Vaccine providers on-site</li>
           <li>IT Administrators setting up the tool</li>
           <li>Data Administrators analyzing the results</li>
-          <li>IT or Data Administrators sharing data to other systems \</li>
+          <li>IT or Data Administrators sharing data to other systems</li>
         </ul>
       </td>
     </tr>
@@ -87,8 +87,8 @@ Given the rapidly evolving vendor landscape and the unique challenges with COVID
         <p>What kind of day-to-day support do you provide? How can I get help (email,
           phone call, chat)?</p>
         <p>What are your contractual SLAs (Service Level Agreements, e.g., resolution
-          rates, and speed they commit to clients)? What are the consequences if
-          you don&#x2019;t meet SLAs?</p>
+          rates and speed they commit to clients)? What are the consequences if you
+          don&#x2019;t meet SLAs?</p>
       </td>
     </tr>
     <tr>
@@ -211,7 +211,7 @@ Given the rapidly evolving vendor landscape and the unique challenges with COVID
           of your leaders / investors?
           <br />
         </p>
-        <p>Do you have examples of success stories? customer testimonials to share?
+        <p>Do you have examples of success stories? Customer testimonials to share?
           Customer referrals?
           <br />
         </p>
@@ -224,7 +224,7 @@ Given the rapidly evolving vendor landscape and the unique challenges with COVID
   </tbody>
 </table>
 
-Since the two focus areas we’ve repeatedly heard from government partners right now are: 1\) scheduling/queue management and reminder tools and 2\) patient registration tools, we’ve included additional detailed questions for both in the following sections. 
+Because the two focus areas we’ve repeatedly heard from government partners right now are: 1\) scheduling/queue management and reminder tools and 2\) patient registration tools, we’ve included additional detailed questions for both in the following sections. 
 
 And we’ve already evaluated several vendors and are happy to share our candid reviews. We’re also happy to hop on the phone with a vendor and help you evaluate a vendor. Just [let us know](https://www.usdigitalresponse.org/request-help/).
 

@@ -1,6 +1,6 @@
 # 3. Collecting patient information
 
-While you may already collect patient information, there may be some additional requirements that are unique for administering the COVID-19 vaccine:
+While you may already collect patient information, there may be some additional requirements that are unique for administering the COVID-19 vaccine.
 
 **Reasons to collect patient information**
 

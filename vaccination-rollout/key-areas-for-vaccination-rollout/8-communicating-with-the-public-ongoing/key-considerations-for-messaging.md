@@ -1,6 +1,6 @@
 # Key considerations for messaging
 
-We created public communications-focused templates and resources to support your vaccination messaging:
+We created have identified the following key considerations to support your vaccination messaging.
 
 **Here are the key considerations for effective messaging**
 
@@ -12,6 +12,6 @@ We created public communications-focused templates and resources to support your
   * What residents should bring on-site
   * \(If applicable\) Eligible residents’ contraindications
   * Contingency planning for residents \(e.g. how residents can check for vaccination administration changes due to events like inclement weather\)
-* **Explanatory content** can build understanding and trust: convey that the vaccines are safe and free for everyone, vaccine access is based on ethical considerations, and it’s important for everyone to get vaccinated.
+* **Explanatory content** can build understanding and trust. Convey that the vaccines are safe and free for everyone, vaccine access is based on ethical considerations, and it’s important for everyone to get vaccinated.
 * **Partner with local news outlets** to maximize residents’ awareness of vaccination administration and eligibility. 
 

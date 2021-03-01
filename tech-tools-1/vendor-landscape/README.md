@@ -1,10 +1,10 @@
 # Vendor Categories
 
-There appear to be three types of vendors that are building additional functionality to support COVID vaccinations.
+There appear to be three types of vendors that are building additional functionality to support COVID vaccinations. They are:
 
 **EMRs**
 
-* Many EMRs have been building out additional functionality to help support the COVID vaccination efforts across the country. 
+* Many EMRs have been building out additional functionality to help support COVID vaccination efforts across the country. 
 * An upside of using your EMR is that they often already integrate with your IIS and insurance billing system, so you don’t need to worry about setting up additional connections. 
 * We highly recommend considering your EMR’s new feature and integration offerings, if applicable, as this may save time.
 
@@ -19,6 +19,6 @@ There appear to be three types of vendors that are building additional functiona
 
 * There are several big players that have built offerings to support COVID; they tend to offer end-to-end functionality for supporting vaccination administration.
 * An upside of using one of these end-to-end tools is that they could be an all-in-one solution for your needs. They also tend to have well-staffed support teams.
-* A downside of these tools is that they may not have domain expertise and experience in the same way as a specialized vendor, so ironically they may not be as vetted as some of the smaller specialized players for COVID tooling. Additionally, they may be the best-suited for budget-constrained scenarios.
+* A downside of these tools is that they may not have domain expertise and experience in the same way as a specialized vendor, so, ironically, they may not be as vetted as some of the smaller specialized players for COVID tooling. Additionally, they may be the best-suited for budget-constrained scenarios.
 * Examples of tools in this space include Microsoft’s VRAS, Salesforce’s Work.com, VAMS by Deloitte, and Qualtric.
 
