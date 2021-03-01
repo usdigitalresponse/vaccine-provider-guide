@@ -1,4 +1,4 @@
-# Which vendors to evaluate?
+# Choose vendors to evaluate
 
 There are many vendors out there.
 

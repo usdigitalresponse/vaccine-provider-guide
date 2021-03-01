@@ -1,4 +1,4 @@
-# What are your goals and constraints?
+# Identify your goals and constraints
 
 Before talking to vendors, identify goals and potential constraints - this will serve as a guide as you decide which vendor is most appropriately suited for you. 
 

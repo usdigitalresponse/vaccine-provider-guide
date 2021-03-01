@@ -1,4 +1,4 @@
-# Key questions
+# Answer key questions
 
 Given the rapidly evolving vendor landscape and the unique challenges with COVID vaccinations, here are some questions to keep in mind as you do vendor evaluations. 
 

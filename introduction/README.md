@@ -2,7 +2,7 @@
 
 This guide is for government teams who are responsible for providing COVID-19 vaccines to their communities. The guide provides frameworks for vaccination rollout and tips for evaluating tech tools, with the goal of helping vaccine providers continue making life-saving decisions, faster and easier.
 
-The information in the guide distills what we’ve learned and the trends we’ve seen through, 1\) working with multiple government vaccine providers across the country, 2\) evaluating major tech vendors in the vaccination ecosystem, and 3\) our collective decades of experience in the tech industry directly building and evaluating tech tools ourselves.
+The information in the guide distills what we’ve learned and the trends we’ve seen through: 1\) working with multiple government vaccine providers across the country, 2\) evaluating major tech vendors in the vaccination ecosystem, and 3\) our collective decades of experience in the tech industry directly building and evaluating tech tools ourselves.
 
 _This is a living document._ ****We will continuously update it as we learn more from government and public health officials, other vaccine providers, and tech vendors. 
 
