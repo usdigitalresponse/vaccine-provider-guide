@@ -41,4 +41,5 @@
 ---
 
 * [What's next?](whats-next.md)
+* [Acknowledgements](acknowledgements.md)
 
