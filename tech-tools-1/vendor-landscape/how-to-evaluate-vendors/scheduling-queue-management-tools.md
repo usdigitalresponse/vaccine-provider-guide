@@ -31,3 +31,9 @@ Here are some key questions to ask as you evaluate a scheduling / queue manageme
 
 * See workflow stats \(for operational improvements\)
 
+{% hint style="info" %}
+For more information on [trends observed in the field ](../../summary-of-findings/). 
+{% endhint %}
+
+
+

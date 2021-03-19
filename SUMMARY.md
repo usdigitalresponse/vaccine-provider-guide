@@ -36,6 +36,15 @@
     * [Answer key questions](tech-tools-1/vendor-landscape/how-to-evaluate-vendors/key-questions.md)
     * [Scheduling / queue management tool - Questions](tech-tools-1/vendor-landscape/how-to-evaluate-vendors/scheduling-queue-management-tools.md)
     * [Patient registration tool - Questions](tech-tools-1/vendor-landscape/how-to-evaluate-vendors/patient-registration-tools.md)
+* [Switching Vendors](tech-tools-1/switching-vendors/README.md)
+  * [Switching Costs](tech-tools-1/switching-vendors/switching-costs.md)
+  * [Contract Modifications & Switching](tech-tools-1/switching-vendors/contract-modifications-and-switching.md)
+* [Summary of Findings](tech-tools-1/summary-of-findings/README.md)
+  * [Common Challenges](tech-tools-1/summary-of-findings/common-challenges.md)
+  * [Evaluating Media](tech-tools-1/summary-of-findings/evaluating-media.md)
+  * [Common User Interface Issues](tech-tools-1/summary-of-findings/common-user-interface-issues.md)
+  * [Outages and Downtime](tech-tools-1/summary-of-findings/outages-and-downtime.md)
+  * [Limitations of Technology](tech-tools-1/summary-of-findings/limitations-of-technology.md)
 * [Vendor Reviews](tech-tools-1/vendor-reviews.md)
 
 ---

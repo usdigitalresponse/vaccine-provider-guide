@@ -224,7 +224,7 @@ Given the rapidly evolving vendor landscape and the unique challenges with COVID
   </tbody>
 </table>
 
-Because the two focus areas we’ve repeatedly heard from government partners right now are: 1\) scheduling/queue management and reminder tools and 2\) patient registration tools, we’ve included additional detailed questions for both in the following sections. 
+Because the main focus area we’ve repeatedly heard from government partners right now is scheduling which includes 1\) queue management and reminder tools and 2\) patient registration tools, we’ve included additional detailed information for both in the following sections. 
 
 And we’ve already evaluated several vendors and are happy to share our candid reviews. We’re also happy to hop on the phone with a vendor and help you evaluate a vendor. Just [let us know](https://www.usdigitalresponse.org/request-help/).
 
