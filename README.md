@@ -19,5 +19,7 @@ _This is a living document._ ****We will continuously update it as we learn more
 3. \*\*\*\*[**Tech tool categories**](tech-tools-1/tech-tools.md)**:** Top needs identified by USDR partners include scheduling/queue management, reminders, and registration.
 4. \*\*\*\*[**Vendor categories**](tech-tools-1/vendor-landscape/): A high-level overview of the vendor landscape.
 5. \*\*\*\*[**How to evaluate vendors**](tech-tools-1/vendor-landscape/how-to-evaluate-vendors/): Tips for choosing a set of vendors to consider; concrete, detailed factors and questions to ask vendors offering queue management and registration tools.
-6. \*\*\*\*[**Vendor evaluations**](tech-tools-1/vendor-reviews.md)**:** Detailed write-ups and recommendations of vendors we’ve talked to so far.
+6. \*\*\*\*[**Switching Vendors**](tech-tools-1/switching-vendors/): Key items to keep in mind before making the decision to switch vendors
+7. \*\*\*\*[**Summary of Findings**](tech-tools-1/summary-of-findings/): A brief description of the challenges and issues we have come across based on our research and conversation with various government partners.
+8. \*\*\*\*[**Vendor Reviews**](tech-tools-1/vendor-reviews.md)**:**  Reach out to us to get additional information about the various vendors.
 
